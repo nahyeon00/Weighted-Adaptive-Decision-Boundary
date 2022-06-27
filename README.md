@@ -49,4 +49,4 @@ loss = pos_loss.mean() + neg_loss.mean()
 |75% | ADB |  67.7220 | 87.1507 | 84.4884 | __88.6381__ | __76.3578__ | __88.5555__ |
 || Proposed Method  |  __68.4246__ | __87.1755__ | __84.7258__ | 88.5854 | 76.2582 |  88.3192| 
 
-“Open” 과 “Known” 은 open class와 known class에 대한 macro f1-score 를 나타낸다. 
+“Open” 과 “Known” 은 open class와 known class에 대한 macro f1-score 를 나타냅니다.
