@@ -3,7 +3,7 @@
 **수정 중 입니다.**
 
 ### Introduction
-오픈 의도 분류와 관련된 기존 연구인 [적응 결정경계(ADB)](https://github.com/thuiar/Adaptive-Decision-Boundary)가 반경이 큰 결정경계가 학습되는 문제를 해결하기 위해 데이터의 중요도를 고려한 결정경계 학습 방법(Data Weighted Adaptive Decision Boundary)을 제안한다 (Accepted by KCC2022).
+오픈 의도 분류와 관련된 기존 연구인 [적응 결정경계(ADB)](https://github.com/thuiar/Adaptive-Decision-Boundary)가 반경이 큰 결정경계가 학습되는 문제를 해결하기 위해 데이터의 중요도를 고려한 결정경계 학습 방법(Data Weighted Adaptive Decision Boundary)을 제안합니다 (Accepted by KCC2022).
 
 ### Model
 ![image](https://user-images.githubusercontent.com/90039228/175939473-80c3d8f5-6fbb-4f71-8c93-bcfe5c71929c.png)
