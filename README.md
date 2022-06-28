@@ -9,12 +9,9 @@
 ![image](https://user-images.githubusercontent.com/90039228/175939473-80c3d8f5-6fbb-4f71-8c93-bcfe5c71929c.png)
 </br>
 
-### 결정경계 조건에 맞는 결정경계 학습을 위한 손실함수
-<img src="./img/img1.JPG" width="300" height="90">    
-</br>
-
 ### __중요도를 추가한 손실함수__
 <img src="./img/img2.JPG" width="300" height="90"> 
+<img src="./img/img.JPG" width="150" height="60"> 
 
 #### 변경 코드
 
